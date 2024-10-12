@@ -1,5 +1,6 @@
 import os, sys
 os.system("pkg install pip")
+os.system("pip install --upgrade pip")
 os.system("pip install telethon")
 os.system("pip install aiocron")
 os.system("pip install emoji")
